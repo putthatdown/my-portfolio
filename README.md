@@ -4,6 +4,6 @@ This is a training portfolio using AWS and ReactJS.
 
 ## Technologies used
 
-Git
-Github
+Brew
+Git and Github
 SSH
