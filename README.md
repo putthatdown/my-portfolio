@@ -1,2 +1,3 @@
-# my-portfolio
-This is my acloudguru portfolio
+# ACloudGuru Portfolio
+
+This is a training portfolio using AWS and ReactJS.
